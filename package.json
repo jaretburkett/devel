@@ -1,0 +1,29 @@
+{
+  "name": "devel",
+  "version": "0.0.0",
+  "description": "A package to make development easier.",
+  "bin": {
+    "devel": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaretburkett/devel.git"
+  },
+  "keywords": [
+    "development",
+    "scss"
+  ],
+  "author": "Jaret Burkett <jaretburkett@gmail.com> (https://github.com/jaretburkett/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaretburkett/devel/issues"
+  },
+  "homepage": "https://github.com/jaretburkett/devel",
+  "dependencies": {
+    "args": "^2.3.0"
+  }
+}
